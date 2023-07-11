@@ -2,12 +2,12 @@
     {
         "name": "PUBG",
         "ids": [767],
-        "curators": ["jkRockeR"]
+        "curators": [15320]
     },
     {
         "name": "CS:GO",
         "ids": [13, 35, 36, 38, 785],
-        "curators": ["CMH"]
+        "curators": [2499290]
     },
     {
         "name": "DOTA 2",
@@ -17,12 +17,12 @@
     {
         "name": "Over Watch2",
         "ids": [967],
-        "curators": ["damn"]
+        "curators": [5282659]
     },
     {
         "name": "Warface",
         "ids": [19, 75, 76, 77, 79, 536, 687],
-        "curators": ["янамефе"]
+        "curators": [3307086]
     },
     {
         "name": "Valorant",
@@ -32,7 +32,7 @@
     {
         "name": "GTA SAMP",
         "ids": [114, 139, 170, 171, 172, 258, 518, 690, 722],
-        "curators": ["macmem"]
+        "curators": [545699]
     },
     {
         "name": "Fortnite",
@@ -42,32 +42,32 @@
     {
         "name": "World of Tanks",
         "ids": [125, 213, 214 ,215, 689],
-        "curators": ["OlegBekker"]
+        "curators": [654502]
     },
     {
         "name": "OSU",
         "ids": [870, 877, 905, 945],
-        "curators": ["jkRockeR"]
+        "curators": [15320]
     },
     {
         "name": "Supercell",
         "ids": [892, 893, 731],
-        "curators": ["Nekulka", "чикиряу"]
+        "curators": [721645, 3514891]
     },
     {
         "name": "Fifa",
         "ids": [946, 970, 971],
-        "curators": ["pat000"]
+        "curators": [63649]
     },
     {
         "name": "Apex Legends",
         "ids": [824, 828, 878, 933, 934],
-        "curators": ["WatchUrr"]
+        "curators": [4301272]
     },
     {
         "name": "Rust",
         "ids": [842, 883, 900, 942],
-        "curators": ["чикиряу"]
+        "curators": [3514891]
     },
     {
         "name": "Battlefield",
@@ -82,32 +82,32 @@
     {
         "name": "Minecraft",
         "ids": [47, 115, 200, 201, 202, 203, 204, 205, 729],
-        "curators": ["STEALYOURBRAIN"]
+        "curators": [3354669]
     },
     {
         "name": "CS 1.6",
         "ids": [11, 25 ,26, 27, 28, 29, 73, 111, 247, 225],
-        "curators": ["pat000"]
+        "curators": [63649]
     },
     {
         "name": "CSS",
         "ids": [12, 30, 31, 32, 33, 34, 112, 248, 256, 272, 273, 965],
-        "curators": ["jkRockeR"]
+        "curators": [15320]
     },
     {
         "name": "Genshin Impact",
         "ids": [890, 891, 939, 947, 966],
-        "curators": ["katana"]
+        "curators": [3409744]
     },
     {
         "name": "League of Legends",
         "ids": [130, 217, 218, 219],
-        "curators": ["xtrl"]
+        "curators": [3587292]
     },
     {
         "name": "GTA V",
         "ids": [141, 175, 177, 179, 669],
-        "curators": ["macmem"]
+        "curators": [545699]
     },
     {
         "name": "Escape from Tarkov",
@@ -117,11 +117,11 @@
     {
         "name": "Rocket League",
         "ids": [869, 888],
-        "curators": ["w1nteres"]
+        "curators": [3381504]
     },
     {
         "name": "VR игры",
         "ids": [944, 959, 960],
-        "curators": ["pat000", "damn"]
+        "curators": [63649, 5282659]
     }
 ]
