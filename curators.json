@@ -12,7 +12,7 @@
     {
         "name": "DOTA 2",
         "ids": [128, 227, 228, 858],
-        "curators": []
+        "curators": [2861868]
     },
     {
         "name": "Over Watch2",
@@ -27,7 +27,7 @@
     {
         "name": "Valorant",
         "ids": [844, 914, 915, 916, 917],
-        "curators": [3381504]
+        "curators": [3381504, 3776140]
     },
     {
         "name": "GTA SAMP",
@@ -37,7 +37,7 @@
     {
         "name": "Fortnite",
         "ids": [790, 791, 792, 800],
-        "curators": []
+        "curators": [5198019]
     },
     {
         "name": "World of Tanks",
@@ -77,7 +77,7 @@
     {
         "name": "Call of Duty",
         "ids": [418, 881, 901],
-        "curators": []
+        "curators": [2458884]
     },
     {
         "name": "Minecraft",
@@ -97,7 +97,7 @@
     {
         "name": "Genshin Impact",
         "ids": [890, 891, 939, 947, 966],
-        "curators": [3409744]
+        "curators": []
     },
     {
         "name": "League of Legends",
